@@ -1,4 +1,6 @@
-#IDValidator.js [![Build Status](https://travis-ci.org/mc-zone/IDValidator.svg?branch=master)](https://travis-ci.org/mc-zone/IDValidator/) [![npm version](https://badge.fury.io/js/id-validator.svg)](http://badge.fury.io/js/id-validator)
+#IDValidator.js 
+[![Build Status](https://travis-ci.org/mc-zone/IDValidator.svg?branch=master)](https://travis-ci.org/mc-zone/IDValidator/) [![npm version](https://badge.fury.io/js/id-validator.svg)](http://badge.fury.io/js/id-validator)
+[![DOI](https://zenodo.org/badge/85670280.svg)](https://zenodo.org/badge/latestdoi/85670280)
 what does this mean?
 
 中国大陆个人身份证号码验证器（JS版）
